@@ -1,0 +1,9 @@
+# MTA-HDTREES
+HD TREES FOR MTA / DRZEWA w HD DO MTA
+
+-- // HD TREES FOR MTA FROM DEFINITIVE EDITION // DRZEWA W HD DO MTA Z WERSJI DEFINITIVE EDITION
+
+-- // MODELE I AUTORZY / AUTHOR
+--https://gamemodding.com/en/gta-san-andreas/graphic/91390-palm-trees-from-definitive-edition.html
+
+-- // DOROBIONY C_SIDE Z MODA / MADE UP CLIENT SIDE FOR THIS MOD ^
